@@ -1,0 +1,2893 @@
+{
+  "ok": false,
+  "sourceUrl": "https://fatawin.com/",
+  "bundleDir": "/tmp/eva-clone-Wz935K/bundle",
+  "errors": [
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "index.html",
+      "detail": "https://fatawin.com/global/favicons/greenColorDSGN.svg"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-LightIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-LightIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-LightIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-LightIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Regular.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Regular.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Extrabld.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Extrabld.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Black.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Black.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-ExtrabldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-ExtrabldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Regular.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Regular.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Semibold.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Semibold.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Thin.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Thin.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Semibold.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Semibold.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-SemiboldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-SemiboldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Semibold.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Semibold.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-ThinIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-ThinIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Thin.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Thin.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-RegularIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-RegularIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-ThinIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-ThinIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-SemiboldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-SemiboldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-RegularIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-RegularIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Extrabld.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Extrabld.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-ExtrabldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-ExtrabldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-BlackIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-BlackIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-LightIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-LightIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-ThinIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-ThinIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Light.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Light.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-BoldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-BoldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Extrabld.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Extrabld.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-BoldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-BoldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Black.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Black.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Bold.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Bold.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Bold.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaT-Thin.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaT-Thin.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-BoldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-BoldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Bold.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Bold.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Black.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Black.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-RegularIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-RegularIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Light.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Light.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-ExtrabldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-ExtrabldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-BlackIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-BlackIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Regular.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Regular.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Light.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Light.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-SemiboldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-SemiboldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-BlackIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-BlackIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/global/holiday/snowflake.svg"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/landing_block2_semi.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/auth.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/auth_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/about.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/about/our_team.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/about/awards.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/about/priority.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/about/awards_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/about/priority_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/about_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/about/our_team_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/about/awards_smallest.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/gifts/free_reward_big.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/gifts/free_reward_small.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/gifts/rakeback_big.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/gifts/rakeback_wide_big.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/gifts/rakeback_small.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/bet_slip.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/profile/no_promo.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/profile/no_gift.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/profile/special_promocode.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/profile/special_promocode_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/profile/no_gift_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/rakeback_info.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/reward_info.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/news/news_top_small.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/feedback.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/feedback2.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/feedback_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/licenses.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/licenses_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/licenses_smallest.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/footer_support_girl2.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/qr.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/qr_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/landing_block1_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "css/snapshot.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/landing_block2_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-LightIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-LightIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-LightIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-LightIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Regular.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Regular.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Extrabld.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Extrabld.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Black.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Black.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-ExtrabldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-ExtrabldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Regular.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Regular.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Semibold.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Semibold.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Thin.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Thin.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Semibold.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Semibold.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-SemiboldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-SemiboldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Semibold.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Semibold.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-ThinIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-ThinIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Thin.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Thin.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-RegularIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-RegularIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-ThinIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-ThinIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-SemiboldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-SemiboldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-RegularIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-RegularIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Extrabld.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Extrabld.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-ExtrabldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-ExtrabldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-BlackIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-BlackIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-LightIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-LightIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-ThinIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-ThinIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Light.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Light.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-BoldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-BoldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Extrabld.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Extrabld.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-BoldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-BoldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Black.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Black.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Bold.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Bold.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Bold.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Bold.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaT-Thin.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaT-Thin.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-BoldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-BoldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Bold.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Bold.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Black.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Black.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-RegularIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-RegularIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Light.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-Light.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-ExtrabldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-ExtrabldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-BlackIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-BlackIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Regular.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaExCn-Regular.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Light.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-Light.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-SemiboldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNovaCond-SemiboldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-BlackIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "css/snapshot.css",
+      "detail": "ProximaNova-BlackIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/269ba32b43a8e233.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/feedback.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/269ba32b43a8e233.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/feedback2.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/269ba32b43a8e233.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/feedback_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/269ba32b43a8e233.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/licenses.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/269ba32b43a8e233.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/licenses_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/269ba32b43a8e233.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/licenses_smallest.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/269ba32b43a8e233.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/footer_support_girl2.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/269ba32b43a8e233.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/qr.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/269ba32b43a8e233.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/qr_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/654c42c8b389755d.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/landing_block1_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/654c42c8b389755d.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/landing_block2_semi.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/654c42c8b389755d.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/landing_block2_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/654c42c8b389755d.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/auth.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/654c42c8b389755d.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/auth_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/about.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/about/our_team.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/about/awards.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/about/priority.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/about/awards_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/about/priority_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/about_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/about/our_team_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/about/awards_smallest.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/gifts/free_reward_big.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/gifts/free_reward_small.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/gifts/rakeback_big.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/gifts/rakeback_wide_big.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/gifts/rakeback_small.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/bg/bet_slip.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/profile/no_promo.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/profile/no_gift.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/profile/special_promocode.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/profile/special_promocode_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/profile/no_gift_mobile.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/rakeback_info.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/reward_info.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/c4f531cd886520d3.css",
+      "detail": "https://fatawin.com/greenColorDSGN/mix/news/news_top_small.webp"
+    },
+    {
+      "severity": "error",
+      "code": "same_origin_external",
+      "message": "ассет origin не локализован в bundle",
+      "file": "fatawin.com/_next/static/css/d4dbba7cd4889f6e.css",
+      "detail": "https://fatawin.com/global/holiday/snowflake.svg"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-LightIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-LightIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-LightIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-LightIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-LightIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-LightIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-LightIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-LightIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Regular.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Regular.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Regular.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Regular.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Extrabld.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Extrabld.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Extrabld.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Extrabld.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Black.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Black.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Black.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Black.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-ExtrabldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-ExtrabldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-ExtrabldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-ExtrabldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Regular.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Regular.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Regular.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Regular.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Semibold.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Semibold.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Semibold.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Semibold.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Thin.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Thin.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Thin.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Thin.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Semibold.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Semibold.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Semibold.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Semibold.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-SemiboldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-SemiboldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-SemiboldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-SemiboldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Semibold.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Semibold.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Semibold.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Semibold.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-ThinIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-ThinIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-ThinIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-ThinIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Thin.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Thin.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Thin.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Thin.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-RegularIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-RegularIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-RegularIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-RegularIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-ThinIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-ThinIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-ThinIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-ThinIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-SemiboldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-SemiboldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-SemiboldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-SemiboldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-RegularIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-RegularIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-RegularIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-RegularIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Extrabld.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Extrabld.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Extrabld.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Extrabld.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-ExtrabldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-ExtrabldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-ExtrabldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-ExtrabldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-BlackIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-BlackIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-BlackIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-BlackIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-LightIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-LightIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-LightIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-LightIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-ThinIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-ThinIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-ThinIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-ThinIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Light.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Light.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Light.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Light.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-BoldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-BoldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-BoldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-BoldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Extrabld.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Extrabld.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Extrabld.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Extrabld.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-BoldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-BoldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-BoldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-BoldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Black.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Black.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Black.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Black.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Bold.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Bold.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Bold.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Bold.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Bold.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Bold.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Bold.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaT-Thin.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaT-Thin.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaT-Thin.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaT-Thin.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-BoldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-BoldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-BoldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-BoldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Bold.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Bold.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Bold.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Bold.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Black.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Black.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Black.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Black.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-RegularIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-RegularIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-RegularIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-RegularIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Light.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Light.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Light.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-Light.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-ExtrabldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-ExtrabldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-ExtrabldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-ExtrabldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-BlackIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-BlackIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-BlackIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-BlackIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Regular.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Regular.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Regular.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaExCn-Regular.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Light.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Light.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Light.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-Light.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-SemiboldIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-SemiboldIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-SemiboldIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNovaCond-SemiboldIt.ttf"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-BlackIt.eot"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-BlackIt.eot?#iefix"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-BlackIt.woff"
+    },
+    {
+      "severity": "error",
+      "code": "missing_asset",
+      "message": "файл ассета отсутствует в bundle",
+      "file": "fatawin.com/global/fonts/proxima_nova/stylesheet.css",
+      "detail": "ProximaNova-BlackIt.ttf"
+    }
+  ],
+  "warnings": [],
+  "stats": {
+    "htmlFiles": 1,
+    "cssFiles": 8,
+    "assetReferences": 444,
+    "missingAssets": 334,
+    "externalSameOriginAssets": 77,
+    "proxyImageUrls": 0
+  }
+}
